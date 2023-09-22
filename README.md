@@ -6,7 +6,7 @@ Hi, i'm yusung lee. You can call me "huge" in English.
 3. Building system identification deployment technology
 4. Virtual sensor technology for building energy managemnt
 
-### 2️⃣ Experience :school:
+### 2️⃣ Experience ✏️
 
 #### 📚 International journal publications  
 1. Y Lee, and W Kim. "Development of an Optimal Start Control Strategy for a 
