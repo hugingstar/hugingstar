@@ -34,49 +34,32 @@ using the same”, 2021-10-15, Registration, KR 10-2315669.
 - 🎓 Chosun University | Bachelor’s degree, Mechanical Engineering | Gwang-ju, South Korea | 2012.03 ~ 2019.02
 - 🎓 Korea High School | Natural science | Gwang-ju, South Korea | 2009.03 ~ 2012.02  
 
-
 ### Certification
-- Engineer General Machinery; Ministry of Trade, Industry, and Energy, Human & 
-Human resources development of Korea
+- Engineer General Machinery; Ministry of Trade, Industry, and Energy, Human & Human resources development of Korea
 - Driver’s License (1st class Regular) ; National Police Agency of Korea
 - Microsoft Offices Specialist (Master); Microsoft
 
 ### Technical Skills
-
 - Language
-
-<div align="center">
-
+<div align="left">
 <img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
 </div>
 
 - Software
-
 <div align="left">
-
 <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
 <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
-
 <img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-
 </div>
 
 ### Mypage
 
 <div align="left">
-  
 <a href="https://velog.io/@hugingstar">
-  
   <img src="http://img.shields.io/badge/Huge%20velog-12b886?style=for-the-badge&logo=vimeo&logoColor=white" />
-
 </a>
 
 <a href="mailto:ylsee4050@gmail.com">
-  
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-
 </a>
-
 </div>
