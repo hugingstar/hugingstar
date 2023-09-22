@@ -1,23 +1,23 @@
 Hi, i'm yusung lee. You can call me "huge" in English.
 
-### Research interests
-:one: Fault detection and diagnosis for building energy management   
-:two: Model predictive control for optimal building energy management   
+### :one: Research interests
+- Fault detection and diagnosis for building energy management   
+ Model predictive control for optimal building energy management   
 :three: Building system identification deployment technology   
 :four: Virtual sensor technology for building energy managemnt
 
-### Experience :school:
-:one: International journal publications  
+### :two: Experience :school:
+#### International journal publications  
 - Y Lee, and W Kim. "Development of an Optimal Start Control Strategy for a 
 Variable Refrigerant Flow (VRF) System.", Energies 14.2 (2021): 271.   
 
-:two: Domestic journal publications
+#### Domestic journal publications
 - Y Lee, and W Kim. “Development of plug-and-play point mapping automation 
 technology for efficient deployment of optimal start models for VRF systems”, 
 Korean Journal of Air Conditioning and Refrigeration Engineering, 2023-11 
 Published.   
 
-:three: Patents 💡
+#### Patents 💡
 - W Kim, Y Lee, D Chung, “Virtual sensor-based air quality diagnosis system”, 
 2022-12-12 Application , KR-10-2022-0173078.   
 - W Kim, Y Lee, “Optimal control system for heating and cooling facilities based on 
