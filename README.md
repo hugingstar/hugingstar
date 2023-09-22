@@ -29,14 +29,11 @@ efficiency of building heating and cooling facilities and Fault diagnosis method
 using the same”, 2021-10-15, Registration, KR 10-2315669.  
 
 ### Education experience :school:
-- 🎒 Chonnam National University | Gwang-ju, South Korea | 2023.03 ~ Present |
-Ph.D courses, Mechanical Engineering (GPA:4.2/4.5)
-- 🎓 Chonnam National University | Gwang-ju, South Korea | 2020.03 ~ 2023.02 |
-Master’s degree, Mechanical Engineering (GPA:4.0/4.5)
-- 🎓 Chosun University | Gwang-ju, South Korea | 2012.03 ~ 2019.02 |
-Bachelor’s degree, Mechanical Engineering (GPA:4.17/4.5)
-- 🎓 Korea High School | Gwang-ju, South Korea | 2009.03 ~ 2012.02 |
-Natural science
+- 🎒 Chonnam National University | Ph.D courses, Mechanical Engineering |Gwang-ju, South Korea | 2023.03 ~ Present |
+- 🎓 Chonnam National University | Master’s degree, Mechanical Engineering |Gwang-ju, South Korea | 2020.03 ~ 2023.02 |
+- 🎓 Chosun University | Bachelor’s degree, Mechanical Engineering | Gwang-ju, South Korea | 2012.03 ~ 2019.02
+- 🎓 Korea High School | Natural science | Gwang-ju, South Korea | 2009.03 ~ 2012.02  
+
 
 ### Certification
 - Engineer General Machinery; Ministry of Trade, Industry, and Energy, Human & 
