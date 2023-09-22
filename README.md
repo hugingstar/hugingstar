@@ -6,7 +6,7 @@ Hi, i'm yusung lee. You can call me "huge" in English.
 3) Building system identification deployment technology
 4) Virtual sensor technology for building energy managemnt
 
-### Experience
+### Experience :school:
 1) International journal publications
 - Y Lee, and W Kim. "Development of an Optimal Start Control Strategy for a 
 Variable Refrigerant Flow (VRF) System.", Energies 14.2 (2021): 271.
@@ -25,7 +25,7 @@ data model for improving building energy efficiency and its control method”, 2
 efficiency of building heating and cooling facilities and Fault diagnosis method 
 using the same”, 2021-10-15, Registration, KR 10-2315669.
 
-### Education experience
+### Education experience :school:
 - Chonnam National University | Gwang-ju, South Korea | 2023.03 ~ Present |
 Ph.D courses, Mechanical Engineering (GPA:4.2/4.5)
 - Chonnam National University | Gwang-ju, South Korea | 2020.03 ~ 2023.02 |
