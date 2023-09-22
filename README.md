@@ -28,7 +28,7 @@ data model for improving building energy efficiency and its control method”, 2
 efficiency of building heating and cooling facilities and Fault diagnosis method 
 using the same”, 2021-10-15, Registration, KR 10-2315669.  
 
-### Education experience :school:
+### 🏫 Education experience
 - 🎒 Chonnam National University | Ph.D courses, Mechanical Engineering |Gwang-ju, South Korea | 2023.03 ~ Present |
 - 🎓 Chonnam National University | Master’s degree, Mechanical Engineering |Gwang-ju, South Korea | 2020.03 ~ 2023.02 |
 - 🎓 Chosun University | Bachelor’s degree, Mechanical Engineering | Gwang-ju, South Korea | 2012.03 ~ 2019.02
