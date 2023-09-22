@@ -34,12 +34,12 @@ using the same”, 2021-10-15, Registration, KR 10-2315669.
 - 🎓 Chosun University | Bachelor’s degree, Mechanical Engineering | Gwang-ju, South Korea | 2012.03 ~ 2019.02
 - 🎓 Korea High School | Natural science | Gwang-ju, South Korea | 2009.03 ~ 2012.02  
 
-### Certification
+### 📋 Certification
 - 📌 Engineer General Machinery; Ministry of Trade, Industry, and Energy, Human & Human resources development of Korea
 - 📌 Driver’s License (1st class Regular) ; National Police Agency of Korea
 - 📌 Microsoft Offices Specialist (Master); Microsoft
 
-### Technical Skills
+### 💻 Technical Skills
 - Language
 <div align="left">
 <img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
