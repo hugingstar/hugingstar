@@ -1,12 +1,12 @@
 Hi, i'm yusung lee. You can call me "huge" in English.
 
-### Research interests
+### 🔖 Research interests
 1. Fault detection and diagnosis for building energy management   
 2. Model predictive control for optimal building energy management
 3. Building system identification deployment technology
 4. Virtual sensor technology for building energy managemnt
 
-### Experience ✏️
+### ✏️ Experience 
 
 #### 📚 International journal publications  
 1. Y Lee, and W Kim. "Development of an Optimal Start Control Strategy for a 
@@ -35,9 +35,9 @@ using the same”, 2021-10-15, Registration, KR 10-2315669.
 - 🎓 Korea High School | Natural science | Gwang-ju, South Korea | 2009.03 ~ 2012.02  
 
 ### Certification
-- Engineer General Machinery; Ministry of Trade, Industry, and Energy, Human & Human resources development of Korea
-- Driver’s License (1st class Regular) ; National Police Agency of Korea
-- Microsoft Offices Specialist (Master); Microsoft
+- 📌 Engineer General Machinery; Ministry of Trade, Industry, and Energy, Human & Human resources development of Korea
+- 📌 Driver’s License (1st class Regular) ; National Police Agency of Korea
+- 📌 Microsoft Offices Specialist (Master); Microsoft
 
 ### Technical Skills
 - Language
