@@ -55,6 +55,7 @@ using the same”, 2021-10-15, Registration, KR 10-2315669.
 <br>
   <img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="http://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
 ### Mypage
