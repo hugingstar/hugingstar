@@ -64,7 +64,7 @@ using the same”, 2021-10-15, Registration, KR 10-2315669.
 - Optimization
 <div align="left">
   <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
-  <img src="http://img.shields.io/badge/gurobi-ee3525?style=for-the-badge&logo=cvxpyi&logoColor=white" />
+  <img src="http://img.shields.io/badge/cvxpy-ee3525?style=for-the-badge&logo=cvxpyi&logoColor=white" />
 </div>
 
 - Infrastructure
