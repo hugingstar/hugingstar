@@ -1,4 +1,4 @@
-Hi, i'm yusung lee. You can call me "huge" in English.
+Hi, i'm yusung lee. You can call me "huge".
 
 ### 🔖 Research interests
 1. Fault detection and diagnosis for building energy management   
@@ -41,18 +41,36 @@ using the same”, 2021-10-15, Registration, KR 10-2315669.
 
 ### 💻 Technical Skills
 - Language
+  
 <div align="left">
 <img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-- Software
+- Data handling
+  
+<div align="left">
+  <img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="http://img.shields.io/badge/pandas-013243?style=for-the-badge&logo=pytorch&logoColor=white" />
+</div>
+
+- Artificial intelligence
 <div align="left">
   <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
   <img src="http://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
-<br>
+</div>
+
+- Optimization
+<div align="left">
+  <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
+</div>
+
+- Infrastructure
+<div align="left">
   <img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-<br>
+</div>
+
+- Database
+<div align="left">
   <img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="http://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=sqlite&logoColor=white" />
