@@ -49,8 +49,8 @@ using the same”, 2021-10-15, Registration, KR 10-2315669.
 - Data handling
   
 <div align="left">
-  <img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="http://img.shields.io/badge/pandas-013243?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 - Artificial intelligence
