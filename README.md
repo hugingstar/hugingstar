@@ -1,10 +1,9 @@
 ## Hugingstar
 
 ### 🔖 Research interests
-1. Fault detection and diagnosis for building energy management   
-2. Model predictive control for optimal building energy management
-3. Building system identification deployment technology
-4. Virtual sensor technology for building energy managemnt
+1. Fault detection and diagnosis
+2. Model predictive control
+3. Virtual sensor
 
 ### 🏫 Education experience
 - 🎒 Chonnam National University | Ph.D courses, Mechanical Engineering | Gwang-ju, South Korea | 2023.03 ~ Present |
