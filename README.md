@@ -7,7 +7,7 @@
 4. Virtual sensor technology for building energy managemnt
 
 ### 🏫 Education experience
-- 🎒 Chonnam National University | Ph.D courses, Mechanical Engineering |Gwang-ju, South Korea | 2023.03 ~ Present |
+- 🎒 Chonnam National University | Ph.D courses, Mechanical Engineering | Gwang-ju, South Korea | 2023.03 ~ Present |
 
 ### 💻 Technical Skills
 - Language
