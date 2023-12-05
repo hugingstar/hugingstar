@@ -4,6 +4,7 @@
 1. Fault detection and diagnosis
 2. Model predictive control
 3. Virtual sensor
+4. System identification
 
 ### 🏫 Education experience
 - 🎒 Chonnam National University | Ph.D courses, Mechanical Engineering | Gwang-ju, South Korea | 2023.03 ~ Present |
