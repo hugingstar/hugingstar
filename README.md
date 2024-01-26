@@ -7,7 +7,7 @@
 4. System identification
 
 ### 🏫 Education experience
-- 🎒 Chonnam National University | Master, Mechanical Engineering | Gwang-ju, South Korea | 2023.03 ~ Present |
+- 🎒 Chonnam National University | Master, Mechanical Engineering | Gwang-ju, South Korea | 2020.03 ~ 2023.03
 
 ### 💻 Technical Skills
 - Language
