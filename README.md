@@ -1,13 +1,15 @@
 ## Hugingstar
 
-### 🔖 Research interests
-1. Fault detection and diagnosis
-2. Model predictive control
-3. Virtual sensor
-4. System identification
-
 ### 🏫 Education experience
-- 🎒 Chonnam National University | Master, Mechanical Engineering | Gwang-ju, South Korea | 2020.03 ~ 2023.02
+- 🎒 Chonnam National University | Master, Mechanical Engineering | Gwang-ju, South Korea
+
+### 🏫 Publications
+#### International
+- Fault detection and diagnosis for variable refrigerant flow systems by using virtual sensors and deep learning (Energy Reports 11, 471-482)
+- Development of an optimal start control strategy for a variable refrigerant flow (VRF) system(Energies 14 (2), 271)
+
+#### Domestic
+- Development of Plug-and-play Point Mapping Automation Technology for Efficient Deployment of Optimal Start Models for VRF Systems
 
 ### 💻 Technical Skills
 - Language
