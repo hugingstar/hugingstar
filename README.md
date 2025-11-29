@@ -28,33 +28,26 @@
 	<img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-#### Data engineering
+#### Data Analysis
 <div align="left">
   <img src="http://img.shields.io/badge/apachespark-e25a1c?style=for-the-badge&logo=apachespark&logoColor=white" />  
   <img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
-#### Operation
-<div align="left">
-  <img src="http://img.shields.io/badge/apachekafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
-  <img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
-		<img src="http://img.shields.io/badge/activemq-b7178c=?style=for-the-badge&logo=activemq&logoColor=white" /> 
-</div>
-
-#### Infra
+#### Cloud infrastructure & Operation
 <div align="left">
   <img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+		<img src="http://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+		<img src="http://img.shields.io/badge/apachekafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
+		<img src="http://img.shields.io/badge/activemq-b7178c=?style=for-the-badge&logo=activemq&logoColor=white" /> 
+		<img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
 </div>
 
-#### Artificial intelligence
+#### Artificial intelligence & Optimization
 <div align="left">
   <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="http://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</div>
-
-#### Optimization
-<div align="left">
   <img src="http://img.shields.io/badge/cvxpy-6ba539?style=for-the-badge&logo=cvxpyi&logoColor=white" />
   <img src="http://img.shields.io/badge/pyomo-ffb746?style=for-the-badge&logo=pyomoi&logoColor=white" />
   <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
