@@ -30,15 +30,16 @@
 
 #### Data engineering
 <div align="left">
-  <img src="http://img.shields.io/badge/spark-e25a1c?style=for-the-badge&logo=spark&logoColor=white" />  
+  <img src="http://img.shields.io/badge/apachespark-e25a1c?style=for-the-badge&logo=apachespark&logoColor=white" />  
   <img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 #### Operation
 <div align="left">
-  <img src="http://img.shields.io/badge/kafka-013243?style=for-the-badge&logo=kafka&logoColor=white" /> 
-  <img src="http://img.shields.io/badge/airflow-017cee?style=for-the-badge&logo=airflow&logoColor=white" /> 
+  <img src="http://img.shields.io/badge/apachekafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
+  <img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
+		<img src="http://img.shields.io/badge/activemq-b7178c=?style=for-the-badge&logo=activemq&logoColor=white" /> 
 </div>
 
 #### Infra
@@ -54,15 +55,15 @@
 
 #### Optimization
 <div align="left">
-  <img src="http://img.shields.io/badge/cvxpy-ee3545?style=for-the-badge&logo=cvxpyi&logoColor=white" />
-  <img src="http://img.shields.io/badge/pyomo-ee3545?style=for-the-badge&logo=pyomoi&logoColor=white" />
+  <img src="http://img.shields.io/badge/cvxpy-6ba539?style=for-the-badge&logo=cvxpyi&logoColor=white" />
+  <img src="http://img.shields.io/badge/pyomo-ffb746?style=for-the-badge&logo=pyomoi&logoColor=white" />
   <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
 </div>
 
 #### Database
 <div align="left">
   <img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=amazon&logoColor=white" />
 </div>
 
 ### Mypage
