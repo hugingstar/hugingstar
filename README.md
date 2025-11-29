@@ -30,7 +30,7 @@
 
 #### Data engineering
 <div align="left">
-  <img src="http://img.shields.io/badge/spark-013243?style=for-the-badge&logo=spark&logoColor=white" />  
+  <img src="http://img.shields.io/badge/spark-e25a1c?style=for-the-badge&logo=spark&logoColor=white" />  
   <img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
@@ -38,7 +38,7 @@
 #### Operation
 <div align="left">
   <img src="http://img.shields.io/badge/kafka-013243?style=for-the-badge&logo=kafka&logoColor=white" /> 
-  <img src="http://img.shields.io/badge/airflow-013243?style=for-the-badge&logo=airflow&logoColor=white" /> 
+  <img src="http://img.shields.io/badge/airflow-017cee?style=for-the-badge&logo=airflow&logoColor=white" /> 
 </div>
 
 #### Infra
@@ -49,7 +49,6 @@
 #### Artificial intelligence
 <div align="left">
   <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="http://img.shields.io/badge/scipy-8caae6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="http://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
