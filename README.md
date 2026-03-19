@@ -36,12 +36,12 @@
 	<img src="http://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 	<img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
 	<img src="http://img.shields.io/badge/kafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
-	<img src="http://img.shields.io/badge/activemq-D22128=?style=for-the-badge&logo=apache&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/activemq-D22128?style=for-the-badge&logo=apache&logoColor=white" /> 
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/prometheus-CB2D29=?style=for-the-badge&logo=prometheus&logoColor=white" /> 
-	<img src="http://img.shields.io/badge/grafana-F2712B=?style=for-the-badge&logo=grafana&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/prometheus-CB2D29?style=for-the-badge&logo=prometheus&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/grafana-F2712B?style=for-the-badge&logo=grafana&logoColor=white" /> 
 </div>
 
 <div align="center">
