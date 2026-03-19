@@ -32,9 +32,10 @@
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
 	<img src="http://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-	<img src="http://img.shields.io/badge/apachekafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+	<img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+	<img src="http://img.shields.io/badge/kafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
 	<img src="http://img.shields.io/badge/activemq-b7178c=?style=for-the-badge&logo=activemq&logoColor=white" /> 
 </div>
 
