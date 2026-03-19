@@ -37,12 +37,14 @@
 	<img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
 	<img src="http://img.shields.io/badge/kafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
 	<img src="http://img.shields.io/badge/activemq-D22128=?style=for-the-badge&logo=apache&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/prometheus-E6522C=?style=for-the-badge&logo=prometheus&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/grafana-F46800=?style=for-the-badge&logo=grafana&logoColor=white" /> 
 </div>
 
 <div align="center">
   <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="http://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="http://img.shields.io/badge/cvxpy-6ba539?style=for-the-badge&logo=cvxpyi&logoColor=white" />
+  <img src="http://img.shields.io/badge/cvxpy-6ba539?style=for-the-badge&logo=c&logoColor=white" />
   <img src="http://img.shields.io/badge/pyomo-ffb746?style=for-the-badge&logo=pyomoi&logoColor=white" />
   <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
 </div>
