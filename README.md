@@ -19,26 +19,25 @@
 - 전자장치 및 그 제어방법(출원, KR 10-2026-0008311)
 
 ### Technical Skills
-#### Programming language
-<div align="left">
+
+<div align="center">
 	<img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<div align="left">
+<div align="center">
 	<img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 	<img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 	<img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
 </div>
 
-#### Cloud infrastructure & Operation
-<div align="left">
+<div align="center">
 	<img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
 	<img src="http://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 	<img src="http://img.shields.io/badge/apachekafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
 	<img src="http://img.shields.io/badge/activemq-b7178c=?style=for-the-badge&logo=activemq&logoColor=white" /> 
 </div>
 
-<div align="left">
+<div align="center">
   <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="http://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="http://img.shields.io/badge/cvxpy-6ba539?style=for-the-badge&logo=cvxpyi&logoColor=white" />
@@ -46,7 +45,7 @@
   <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
 </div>
 
-<div align="left">
+<div align="center">
 	<img src="http://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" /> 
@@ -54,7 +53,7 @@
 </div>
 
 ### Mypage
-<div align="left">
+<div align="center">
 <a href="https://velog.io/@hugingstar">
   <img src="http://img.shields.io/badge/Huge%20velog-12b886?style=for-the-badge&logo=vimeo&logoColor=white" />
 </a>
