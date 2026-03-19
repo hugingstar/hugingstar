@@ -59,6 +59,11 @@
 	<img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=amazon&logoColor=white" />
 </div>
 
+<div align="center">
+	<img src="http://img.shields.io/badge/rockylinux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
+	<img src="http://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</div>
+
 ### Mypage
 <div align="center">
 <a href="https://velog.io/@hugingstar">
