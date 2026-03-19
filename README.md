@@ -15,7 +15,7 @@
 - 가상센서 기반 대기 품질 진단 시스템(등록, KR 10-2830189)
 - 전자장치 및 그 제어방법(출원, KR 10-2026-0008311)
 
-## Technical Skills
+## Technical stack
 
 <div align="center">
 	<img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
