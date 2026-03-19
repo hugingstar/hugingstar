@@ -16,11 +16,7 @@
 - 건물 냉난방설비의 에너지 효율 향상을 위한 가상센서 기반 고장 진단 시스템 및 이를 이용한 고장 진단 방법 (등록, KR 10-2315669)
 - 건물 에너지 효율 향상을 위한 데이터 모델 기반 냉난방설비 최적 제어 시스템 및 이의 제어방법 (등록, KR 10-2455531)
 - 가상센서 기반 대기 품질 진단 시스템(등록, KR 10-2830189)
-
-### Conference
-- 
-- 
--
+- 전자장치 및 그 제어방법(출원, KR 10-2026-0008311)
 
 ### Technical Skills
 #### Programming language
@@ -28,23 +24,20 @@
 	<img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-#### Data Analysis
 <div align="left">
-  <img src="http://img.shields.io/badge/apachespark-e25a1c?style=for-the-badge&logo=apachespark&logoColor=white" />  
-  <img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+	<img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+	<img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+	<img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
 </div>
 
 #### Cloud infrastructure & Operation
 <div align="left">
-  <img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-		<img src="http://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-		<img src="http://img.shields.io/badge/apachekafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
-		<img src="http://img.shields.io/badge/activemq-b7178c=?style=for-the-badge&logo=activemq&logoColor=white" /> 
-		<img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+	<img src="http://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+	<img src="http://img.shields.io/badge/apachekafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/activemq-b7178c=?style=for-the-badge&logo=activemq&logoColor=white" /> 
 </div>
 
-#### Artificial intelligence & Optimization
 <div align="left">
   <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="http://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -53,10 +46,11 @@
   <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
 </div>
 
-#### Database
 <div align="left">
-  <img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=amazon&logoColor=white" />
+	<img src="http://img.shields.io/badge/postgresql-#4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=amazon&logoColor=white" />
 </div>
 
 ### Mypage
