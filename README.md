@@ -7,7 +7,6 @@
 ## Publications
 - Fault detection and diagnosis for variable refrigerant flow systems by using virtual sensors and deep learning (Energy Reports 11, 471-482)
 - Development of an optimal start control strategy for a variable refrigerant flow (VRF) system (Energies 14 (2), 271)
-- Development of Plug-and-play Point Mapping Automation Technology for Efficient Deployment of Optimal Start Models for VRF Systems (10.6110/KJACR.2023.35.11.566)
 
 ## Patents
 - 건물 냉난방설비의 에너지 효율 향상을 위한 가상센서 기반 고장 진단 시스템 및 이를 이용한 고장 진단 방법 (등록, KR 10-2315669)
