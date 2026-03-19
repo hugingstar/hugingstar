@@ -27,6 +27,7 @@
 <div align="center">
 	<img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 	<img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+	<img src="http://img.shields.io/badge/dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white" />
 	<img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
 </div>
 
