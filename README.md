@@ -1,24 +1,6 @@
 ## Yusung Lee
 
-### Education experience
-- Chonnam National University | Master, Mechanical Engineering | South Korea
-- Chosun University | Bachelor, Mechanical Engineering | South Korea
-
-### Publications
-#### International
-- Fault detection and diagnosis for variable refrigerant flow systems by using virtual sensors and deep learning (Energy Reports 11, 471-482)
-- Development of an optimal start control strategy for a variable refrigerant flow (VRF) system (Energies 14 (2), 271)
-
-#### Domestic
-- Development of Plug-and-play Point Mapping Automation Technology for Efficient Deployment of Optimal Start Models for VRF Systems (10.6110/KJACR.2023.35.11.566)
-
-#### Patents
-- 건물 냉난방설비의 에너지 효율 향상을 위한 가상센서 기반 고장 진단 시스템 및 이를 이용한 고장 진단 방법 (등록, KR 10-2315669)
-- 건물 에너지 효율 향상을 위한 데이터 모델 기반 냉난방설비 최적 제어 시스템 및 이의 제어방법 (등록, KR 10-2455531)
-- 가상센서 기반 대기 품질 진단 시스템(등록, KR 10-2830189)
-- 전자장치 및 그 제어방법(출원, KR 10-2026-0008311)
-
-### Technical Skills
+## Technical Skills
 
 <div align="center">
 	<img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,6 +44,21 @@
 	<img src="http://img.shields.io/badge/rockylinux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
 	<img src="http://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
+
+### Education experience
+- Chonnam National University | Master, Mechanical Engineering | South Korea
+- Chosun University | Bachelor, Mechanical Engineering | South Korea
+
+### Publications
+- Fault detection and diagnosis for variable refrigerant flow systems by using virtual sensors and deep learning (Energy Reports 11, 471-482)
+- Development of an optimal start control strategy for a variable refrigerant flow (VRF) system (Energies 14 (2), 271)
+- Development of Plug-and-play Point Mapping Automation Technology for Efficient Deployment of Optimal Start Models for VRF Systems (10.6110/KJACR.2023.35.11.566)
+
+#### Patents
+- 건물 냉난방설비의 에너지 효율 향상을 위한 가상센서 기반 고장 진단 시스템 및 이를 이용한 고장 진단 방법 (등록, KR 10-2315669)
+- 건물 에너지 효율 향상을 위한 데이터 모델 기반 냉난방설비 최적 제어 시스템 및 이의 제어방법 (등록, KR 10-2455531)
+- 가상센서 기반 대기 품질 진단 시스템(등록, KR 10-2830189)
+- 전자장치 및 그 제어방법(출원, KR 10-2026-0008311)
 
 ### Mypage
 <div align="center">
