@@ -47,7 +47,7 @@
 </div>
 
 <div align="left">
-	<img src="http://img.shields.io/badge/postgresql-#4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="http://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" /> 
 	<img src="http://img.shields.io/badge/amazons3-5679a31?style=for-the-badge&logo=amazon&logoColor=white" />
