@@ -62,7 +62,7 @@
 ## Mypage
 <div align="center">
 <a href="https://velog.io/@hugingstar">
-  <img src="http://img.shields.io/badge/Huge%20velog-12b886?style=for-the-badge&logo=vimeo&logoColor=white" />
+  <img src="http://img.shields.io/badge/Velog-12b886?style=for-the-badge&logo=vimeo&logoColor=white" />
 </a>
 
 <a href="mailto:ylsee4050@gmail.com">
