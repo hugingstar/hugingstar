@@ -62,7 +62,7 @@
 
 
 <div align="center">
-	<img src="http://img.shields.io/badge/AmazonWebService-FF4E00?style=for-the-badge&logo=&logoColor=white" />
+	<img src="http://img.shields.io/badge/Amazon-FF4E00?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ## Mypage
