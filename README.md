@@ -17,42 +17,42 @@
 ## Technical stack
 
 <div align="center">
-	<img src="http://img.shields.io/badge/python-4285F4?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="http://img.shields.io/badge/python-535D6C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/pandas-4285F4?style=for-the-badge&logo=pandas&logoColor=white" />
-	<img src="http://img.shields.io/badge/numpy-4285F4?style=for-the-badge&logo=numpy&logoColor=white" />
-	<img src="http://img.shields.io/badge/dask-4285F4?style=for-the-badge&logo=dask&logoColor=white" />
+	<img src="http://img.shields.io/badge/pandas-535D6C?style=for-the-badge&logo=pandas&logoColor=white" />
+	<img src="http://img.shields.io/badge/numpy-535D6C?style=for-the-badge&logo=numpy&logoColor=white" />
+	<img src="http://img.shields.io/badge/dask-535D6C?style=for-the-badge&logo=dask&logoColor=white" />
 
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/apacheairflow-4285F4?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
-	<img src="http://img.shields.io/badge/kafka-4285F4?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/apacheairflow-535D6C?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/kafka-535D6C?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white" />
-	<img src="http://img.shields.io/badge/ansible-4285F4?style=for-the-badge&logo=ansible&logoColor=white" />
-	<img src="http://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white" />
+	<img src="http://img.shields.io/badge/kubernetes-535D6C?style=for-the-badge&logo=kubernetes&logoColor=white" />
+	<img src="http://img.shields.io/badge/ansible-535D6C?style=for-the-badge&logo=ansible&logoColor=white" />
+	<img src="http://img.shields.io/badge/docker-535D6C?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="http://img.shields.io/badge/tensorflow-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="http://img.shields.io/badge/sklearn-4285F4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="http://img.shields.io/badge/gurobi-4285F4?style=for-the-badge&logo=gurobi&logoColor=white" />
+  <img src="http://img.shields.io/badge/tensorflow-535D6C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="http://img.shields.io/badge/sklearn-535D6C?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="http://img.shields.io/badge/gurobi-535D6C?style=for-the-badge&logo=gurobi&logoColor=white" />
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/postgresql-4285F4?style=for-the-badge&logo=postgresql&logoColor=white" />
-	<img src="http://img.shields.io/badge/mysql-4285F4?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="http://img.shields.io/badge/postgresql-535D6C?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="http://img.shields.io/badge/mysql-535D6C?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/prometheus-4285F4?style=for-the-badge&logo=prometheus&logoColor=white" /> 
-	<img src="http://img.shields.io/badge/grafana-4285F4?style=for-the-badge&logo=grafana&logoColor=white" /> 
-	<img src="http://img.shields.io/badge/Amazon-4285F4?style=for-the-badge&logo=&logoColor=white" />
+	<img src="http://img.shields.io/badge/prometheus-535D6C?style=for-the-badge&logo=prometheus&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/grafana-535D6C?style=for-the-badge&logo=grafana&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/Amazon-535D6C?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ## Mypage
