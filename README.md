@@ -44,7 +44,6 @@
   <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="http://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="http://img.shields.io/badge/sklearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="http://img.shields.io/badge/pyomo-ffb746?style=for-the-badge&logo=pyomoi&logoColor=white" />
   <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
 </div>
 
