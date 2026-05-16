@@ -17,51 +17,42 @@
 ## Technical stack
 
 <div align="center">
-	<img src="http://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="http://img.shields.io/badge/python-013243?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+	<img src="http://img.shields.io/badge/pandas-013243?style=for-the-badge&logo=pandas&logoColor=white" />
 	<img src="http://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-	<img src="http://img.shields.io/badge/dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white" />
-	<img src="http://img.shields.io/badge/apacheairflow-017cee?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/dask-013243?style=for-the-badge&logo=dask&logoColor=white" />
+
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-	<img src="http://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-	<img src="http://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+	<img src="http://img.shields.io/badge/apacheairflow-013243?style=for-the-badge&logo=apacheairflow&logoColor=white" /> 
 	<img src="http://img.shields.io/badge/kafka-013243?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
-	<img src="http://img.shields.io/badge/activemq-D22128?style=for-the-badge&logo=apache&logoColor=white" /> 
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/prometheus-CB2D29?style=for-the-badge&logo=prometheus&logoColor=white" /> 
-	<img src="http://img.shields.io/badge/grafana-F2712B?style=for-the-badge&logo=grafana&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/kubernetes-013243?style=for-the-badge&logo=kubernetes&logoColor=white" />
+	<img src="http://img.shields.io/badge/ansible-013243?style=for-the-badge&logo=ansible&logoColor=white" />
+	<img src="http://img.shields.io/badge/docker-013243?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="http://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="http://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="http://img.shields.io/badge/sklearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="http://img.shields.io/badge/gurobi-ee3524?style=for-the-badge&logo=gurobi&logoColor=white" />
+  <img src="http://img.shields.io/badge/tensorflow-013243?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="http://img.shields.io/badge/sklearn-013243?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="http://img.shields.io/badge/gurobi-013243?style=for-the-badge&logo=gurobi&logoColor=white" />
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-	<img src="http://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
-	<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/postgresql-013243?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="http://img.shields.io/badge/mysql-013243?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 <div align="center">
-	<img src="http://img.shields.io/badge/rockylinux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
-	<img src="http://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</div>
-
-
-
-<div align="center">
-	<img src="http://img.shields.io/badge/Amazon-FF4E00?style=for-the-badge&logo=&logoColor=white" />
+	<img src="http://img.shields.io/badge/prometheus-013243?style=for-the-badge&logo=prometheus&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/grafana-013243?style=for-the-badge&logo=grafana&logoColor=white" /> 
+	<img src="http://img.shields.io/badge/Amazon-013243?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ## Mypage
@@ -69,12 +60,3 @@
 <a href="https://velog.io/@hugingstar">
   <img src="http://img.shields.io/badge/Velog-12b886?style=for-the-badge&logo=vimeo&logoColor=white" />
 </a>
-
-<a href="mailto:ylsee4050@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
-</div>
-
-
-
-
